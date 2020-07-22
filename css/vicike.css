@@ -1,0 +1,30 @@
+html {
+    background-image: url(../img/Vicike1-bg.JPG);
+    background-position: top;
+    background-repeat: no-repeat;
+    font-family: 'Aclonica';
+    font-style: italic;
+}
+body {
+    margin-left: 50px;
+
+}
+
+.login-div {
+    padding: 10px;
+    border: solid 1px #e4b0bd;
+    box-shadow: 5px 5px 25px #d394a3;
+    display: inline-block;
+}
+
+.login-div input {
+    display: block;
+    margin-bottom: 7px;
+}
+.form-group {
+    color: #F1EFEB;
+}
+.submit-btn {
+    color: #EEADBF;
+    font-family: 'Alconica';
+}
