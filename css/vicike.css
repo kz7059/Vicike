@@ -5,37 +5,3 @@ html {
     font-family: 'Aclonica';
     font-style: italic;
 }
-body {
-    margin-left: 50px;
-
-}
-
-.login-div {
-    padding: 10px;
-    border: solid 1px #470716;
-    box-shadow: 5px 5px 20px  #470716;
-    display: inline-block;
-}
-
-.login-div input {
-    padding: 3px;
-    display: block;
-    margin-bottom: 7px;
-}
-.form-group {
-    color: #F1EFEB;
-}
-.submit-btn {
-    color:  #470716;
-    font-family: 'Alconica';
-    border: solid 1px #470716;
-}
-.login-div input[type="email"] {
-    border: solid 1px #470716;
-}
-.login-div input[type="password"] {
-    border: solid 1px #470716;
-}
-.login-div button:hover {
-    box-shadow: 2px 2px 5px  #470716;
-}
