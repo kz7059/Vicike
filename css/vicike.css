@@ -2,6 +2,7 @@ html {
     background-image: url(../img/Vicike1-bg.JPG);
     background-position: top;
     background-repeat: no-repeat;
+    background-size: cover;
     font-family: 'Aclonica';
     font-style: italic;
 }
