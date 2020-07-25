@@ -2,3 +2,17 @@ html {
     font-family: 'Aclonica';
     font-style: italic;
 }
+span {
+    margin: 50px;
+    border: 5px solid rgb(109, 84, 219);
+    padding:  0em 1em;
+    border-radius: 16px;
+    font-size: 24px;
+    line-height: 2;
+  }
+  
+span.ex1 { 
+    -webkit-box-decoration-break: clone;
+    -o-box-decoration-break: clone;
+    box-decoration-break: clone;
+  }
