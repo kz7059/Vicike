@@ -9,11 +9,12 @@ html {
 .container {
     margin-top: 50px;
     position: relative;
+    background-color:rgb(217, 230, 235);
 }
 
 .mySlides {
     display: none;
-    max-width: 21%;
+    max-width: 75%;
 }
 
 .cursor {
@@ -56,7 +57,7 @@ html {
 
 .caption-container {
     text-align: center;
-    background-color: #f8f9fa;
+    background-color:rgb(217, 230, 235);
     padding: 8px 16px;
     color: black;
 }
@@ -82,5 +83,6 @@ html {
 }
 
 img {
-    height: 60%;
+    height: 100%;
+    width: 100%;
 }

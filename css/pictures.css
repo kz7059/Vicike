@@ -1,5 +1,6 @@
 html {
     font-style: italic;
+    background-color: rgb(217, 230, 235);
 }
 .container {
     margin-top: 50px;
@@ -8,7 +9,7 @@ html {
     font-style: normal;
     font-size: 1.5rem;
     font-weight: lighter;
-    background-color: rgb(189, 217, 226);
+    background-color: rgb(217, 230, 235);
 }
 header {
     font-size: 3rem;
