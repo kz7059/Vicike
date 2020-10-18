@@ -9,7 +9,7 @@ html {
 .container {
     margin-top: 50px;
     position: relative;
-    background-color:rgb(217, 230, 235);
+    background-color: white;
 }
 
 .mySlides {
@@ -57,7 +57,7 @@ html {
 
 .caption-container {
     text-align: center;
-    background-color:rgb(217, 230, 235);
+    background-color:white;
     padding: 8px 16px;
     color: black;
 }
