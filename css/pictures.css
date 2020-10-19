@@ -3,9 +3,6 @@ html {
     font-style: italic;
     background-color: #ffffff;
 }
-* {
-    margin: 0px;
-}
 .container {
     margin-top: 50px;
     padding-top: 50px;
@@ -14,6 +11,7 @@ html {
     font-style: normal;
     font-size: 1.5rem;
     font-weight: lighter;
+    text-align: center;
     background-color: rgb(217, 230, 235);
 }
 header {
@@ -27,7 +25,7 @@ div {
     position: relative;
 }
 li {
-    padding: px;
+    padding: 5px;
 }
 img {
     width: 75px;
