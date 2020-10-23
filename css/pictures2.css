@@ -3,6 +3,8 @@ html {
     background-color: lightpink;
 }
  img {
-     width: 260px;
-     height: 200px;
+    margin: 1%;
+    width: 10%;
+    height: auto;
+    
  }
