@@ -15,8 +15,8 @@ html {
 .mySlides {
     display: none;
     position: relative;
-    left: 12.5%;
-    max-width: 75%;
+    left: 25%;
+    max-width: 50%;
 }
 
 .cursor {
@@ -87,4 +87,5 @@ html {
 img {
     height: 100%;
     width: 100%;
+    vertical-align: middle;
 }
