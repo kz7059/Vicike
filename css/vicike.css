@@ -1,9 +1,35 @@
-html {
+.cover {
     position: relative;
-    background-image: url(../img/Vicike1-bg.JPG);
-    background-position: top;
-    background-repeat: no-repeat;
+    background: url(../img/Vicike1-bg.JPG);
     background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    text-align: justify;
+    display: table;
     font-family: 'Aclonica';
     font-style: italic;
+    color: rgba(233, 217, 217, 0.555);
 }
+.wrapper {
+    display: table-cell;
+    vertical-align: middle;
+    padding: 0 .625rem;
+  }
+  .byline h2 {
+    font-size: 1.125rem;
+    line-height: 1.5rem;
+    letter-spacing: .1rem;
+    margin-bottom: .5rem;
+    /*text-transform: uppercase;*/
+  }
+  
+  .byline h3 {
+    font-size: 1.125rem;
+    line-height: 1.5rem;
+  }
+  nav {
+      position: top;
+      top: -350px;
+      opacity: .55;
+      color: rgb(240, 211, 211);
+  }
