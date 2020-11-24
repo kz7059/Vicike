@@ -2,6 +2,8 @@
     position: relative;
     background: url(../img/Vicike1-bg.JPG);
     background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
     height: 100vh;
     width: 100vw;
     text-align: justify;
